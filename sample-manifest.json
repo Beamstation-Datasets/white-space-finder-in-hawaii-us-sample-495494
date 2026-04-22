@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a147d027-f200-4093-9fbc-4e9c263e44e9",
+  "id_short": 495494,
+  "published_at": "2026-04-22T07:35:31Z",
+  "repo_name": "white-space-finder-in-hawaii-us-sample-495494",
+  "sample_asset_name": "beamstation_495494_food_and_drink-us-hi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/495494/beamstation_495494_food_and_drink-us-hi_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "1ce0629f9ec002c1a49763e4586ec14c493425e98e45def3f0d256ca63e14474",
+  "sample_size_bytes": 20404,
+  "total_records": 2
+}
