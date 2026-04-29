@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Hawaii that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Hawaii, US",
-  "export_job_id": "a147d027-f200-4093-9fbc-4e9c263e44e9",
+  "export_job_id": "81933152-9de8-4fde-b481-f655ccc1f1ff",
   "github_org": "Beamstation-Datasets",
   "id_short": 495494,
   "location_name": "Hawaii",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/495494/beamstation_495494_food_and_drink-us-hi_SAMPLE_DIST.csv",
   "sample_pct": 50.0,
   "sample_records": 1,
-  "sample_sha256": "1ce0629f9ec002c1a49763e4586ec14c493425e98e45def3f0d256ca63e14474",
-  "sample_size_bytes": 20404,
+  "sample_sha256": "11b692fbc6aadc4adc94a2a0f5522179199dd5852ba6d8605f9d14b76c79f505",
+  "sample_size_bytes": 20327,
   "total_records": 2,
-  "updated_at": "2026-04-22T00:07:00.312671+00:00"
+  "updated_at": "2026-04-29T03:42:01.932142+00:00"
 }
