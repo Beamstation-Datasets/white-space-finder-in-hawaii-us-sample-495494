@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 2 records |
 | Free sample size | 1 records (50.0%) |
-| Last export | 2026-04-22T00:07:00.312671+00:00 |
+| Last export | 2026-04-29T03:42:01.932142+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-hawaii-us-sample-495494/releases/download/sample-latest/beamstation_495494_food_and_drink-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
